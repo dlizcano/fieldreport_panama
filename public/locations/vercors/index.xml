@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vercors on Panama Blue Natural Heritage</title>
+    <link>https://example.com/locations/vercors/</link>
+    <description>Recent content in Vercors on Panama Blue Natural Heritage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2021-2022 Me</copyright>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/locations/vercors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayano</title>
+      <link>https://example.com/posts/bayano/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/bayano/</guid>
+      <description>Seeing my first ibex!</description>
+    </item>
+    
+  </channel>
+</rss>

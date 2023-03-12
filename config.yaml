@@ -1,0 +1,39 @@
+title: Panama Blue Natural Heritage
+copyright: '&copy;2021-2022 Diego J. Lizcano'
+baseURL: https://example.com
+languageCode: en-us
+theme: hugo-split-gallery-main
+DefaultContentLanguage: en
+taxonomies:
+  location: locations
+  season: seasons
+params:
+  description: Panama Blue Natural Heritage. Acoustic Component. Field report
+  favicon: ''
+  footnote: Diego J. Lizcano for Audubon Americas
+  galleryLoop: yes
+  images: acoustic_monitoring.jpg
+  includeOriginalImage: yes
+  map2gpx: en
+  paginate: 10
+  robots: index, follow
+  showTranslations: no
+  taxonomies:
+    locations:
+      icon: location-arrow
+    seasons:
+      icon: calendar
+languages:
+  en:
+    menu:
+      main:
+        - identifier: about
+          name: About this report
+          pre: <i class='fa fa-map-marker'></i>
+          url: /about/
+          weight: -110
+        - name: Field Report
+          pre: <i class='fa fa-road'></i>
+          url: /field-report/
+          weight: -100
+    weight: 1

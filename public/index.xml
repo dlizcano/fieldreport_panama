@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panama Blue Natural Heritage</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Panama Blue Natural Heritage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2021-2022 Me</copyright>
+    <lastBuildDate>Mon, 16 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Honda</title>
+      <link>https://example.com/posts/lake-lauvitel/</link>
+      <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lake-lauvitel/</guid>
+      <description>In Honda we installed two AudioMoths. We called the sites HondaSalada_01 and PenonHonda_02</description>
+    </item>
+    
+    <item>
+      <title>Bayano</title>
+      <link>https://example.com/posts/bayano/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/bayano/</guid>
+      <description>[Audiomoth 1]</description>
+    </item>
+    
+    <item>
+      <title>About Hugo Split Gallery theme</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 14 Jul 2021 12:34:56 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Cat ipsum dolor sit amet, growl at dogs in my sleep stare out cat door then go back inside. Naughty running cat stares at human while pushing stuff off a table. Ignore the human until she needs to get up, then climb on her lap and sprawl bird bird bird bird bird bird human why take bird out i could have eaten that damn that dog cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Lac de la Muzelle et lac Lauvitel</title>
+      <link>https://example.com/posts/lakes-muzelle-lauvitel/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lakes-muzelle-lauvitel/</guid>
+      <description>Randonnée avec nuit au refuge de la Muzelle.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Hugo Split Gallery theme</title>
+      <link>https://example.com/field-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/field-report/</guid>
+      <description>Cat ipsum dolor sit amet, growl at dogs in my sleep stare out cat door then go back inside. Naughty running cat stares at human while pushing stuff off a table. Ignore the human until she needs to get up, then climb on her lap and sprawl bird bird bird bird bird bird human why take bird out i could have eaten that damn that dog cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit.</description>
+    </item>
+    
+  </channel>
+</rss>
