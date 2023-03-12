@@ -6,15 +6,76 @@
     <description>Recent content in January on Panama Blue Natural Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2021-2022 Me</copyright>
-    <lastBuildDate>Mon, 16 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/seasons/january/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
+    <lastBuildDate>Thu, 19 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/seasons/january/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Honda</title>
-      <link>https://example.com/posts/lake-lauvitel/</link>
+      <title>Los Palacios</title>
+      <link>https://example.com/posts/palacios/</link>
+      <pubDate>Thu, 19 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/palacios/</guid>
+      <description>In Los Palacios we installed three AudioMoths. We called the sites:
+Parita_01_LosPalacios_11 Parita_01_LosPalacios_10 Parita_01_LosPalacios_06 </description>
+    </item>
+    
+    <item>
+      <title>Los Azules</title>
+      <link>https://example.com/posts/azules/</link>
+      <pubDate>Wed, 18 Jan 2023 00:08:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/azules/</guid>
+      <description>In los Azules we installed two AudioMots. We called the sites:
+Parita_01_LosAzules_12 Parita_01_Nanzal_09 </description>
+    </item>
+    
+    <item>
+      <title>Rio Grande</title>
+      <link>https://example.com/posts/rio/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rio/</guid>
+      <description>In Rio Grande we installed three AudioMots. We called the sites:
+Parita_01_EsteroCamaron_13 Parita_01_LasPalmitas_14 Parita_01_Mamoni_08 </description>
+    </item>
+    
+    <item>
+      <title>Sarigua</title>
+      <link>https://example.com/posts/sarigua/</link>
+      <pubDate>Tue, 17 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/sarigua/</guid>
+      <description>In Sarigua we installed two AudioMoths. We called the sites:
+Parita_01_Sarigua_16 Parita_01_Sarigua_15 </description>
+    </item>
+    
+    <item>
+      <title>El Reten</title>
+      <link>https://example.com/posts/reten/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/reten/</guid>
+      <description>In El Reten we installed one AudioMot. We called the site:
+Parita_01_ElReten_07 </description>
+    </item>
+    
+    <item>
+      <title>Agallito</title>
+      <link>https://example.com/posts/agallito/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/lake-lauvitel/</guid>
-      <description>In Honda we installed two AudioMoths. We called the sites HondaSalada_01 and PenonHonda_02</description>
+      <guid>https://example.com/posts/agallito/</guid>
+      <description>In Agallito we installed one AudioMoth. We called the site:
+Parita_01_ElAgallito_05 </description>
+    </item>
+    
+    <item>
+      <title>Honda</title>
+      <link>https://example.com/posts/honda/</link>
+      <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/honda/</guid>
+      <description>In Honda we installed two AudioMoths. We called the sites:
+Parita_01_PenonHonda_02 Parita_01_HondaSalada_01 </description>
     </item>
     
     <item>
@@ -23,7 +84,8 @@
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/posts/bayano/</guid>
-      <description>[Audiomoth 1]</description>
+      <description>In Bayano we installed two AudioMots. We called the sites:
+Parita_01_BayanoAvispa_03 Parita_01_BayanoLasTablas_04 </description>
     </item>
     
   </channel>

@@ -6,23 +6,14 @@
     <description>Recent content in Seasons on Panama Blue Natural Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2021-2022 Me</copyright>
-    <lastBuildDate>Mon, 16 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/seasons/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
+    <lastBuildDate>Thu, 19 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/seasons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>January</title>
       <link>https://example.com/seasons/january/</link>
-      <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 00:11:00 +0000</pubDate>
       
       <guid>https://example.com/seasons/january/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summer</title>
-      <link>https://example.com/seasons/summer/</link>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/seasons/summer/</guid>
       <description></description>
     </item>
     

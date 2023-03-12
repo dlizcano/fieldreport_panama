@@ -6,15 +6,85 @@
     <description>Recent content on Panama Blue Natural Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2021-2022 Me</copyright>
-    <lastBuildDate>Mon, 16 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
+    <lastBuildDate>Thu, 19 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Honda</title>
-      <link>https://example.com/posts/lake-lauvitel/</link>
+      <title>Diego J. Lizcano. Independent Contractor for Audubon Americas</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Fri, 10 Mar 2023 12:34:56 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>This report covers the deliverables: Report of field work completed and training activities for the field crew. Backup of recordings obtained through acoustic monitoring and document explaining file organization. This report also covers the activities: Coordinate the development of bird monitoring activities for the Panama Blue Natural Heritage project in panama. Design a cost-efficient sampling scheme for bird monitoring in the Panama Blue Natural Heritage Project. Provide in-person and virtual training to personnel conducting monitoring fieldwork for the project.</description>
+    </item>
+    
+    <item>
+      <title>Los Palacios</title>
+      <link>https://example.com/posts/palacios/</link>
+      <pubDate>Thu, 19 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/palacios/</guid>
+      <description>In Los Palacios we installed three AudioMoths. We called the sites:
+Parita_01_LosPalacios_11 Parita_01_LosPalacios_10 Parita_01_LosPalacios_06 </description>
+    </item>
+    
+    <item>
+      <title>Los Azules</title>
+      <link>https://example.com/posts/azules/</link>
+      <pubDate>Wed, 18 Jan 2023 00:08:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/azules/</guid>
+      <description>In los Azules we installed two AudioMots. We called the sites:
+Parita_01_LosAzules_12 Parita_01_Nanzal_09 </description>
+    </item>
+    
+    <item>
+      <title>Rio Grande</title>
+      <link>https://example.com/posts/rio/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rio/</guid>
+      <description>In Rio Grande we installed three AudioMots. We called the sites:
+Parita_01_EsteroCamaron_13 Parita_01_LasPalmitas_14 Parita_01_Mamoni_08 </description>
+    </item>
+    
+    <item>
+      <title>Sarigua</title>
+      <link>https://example.com/posts/sarigua/</link>
+      <pubDate>Tue, 17 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/sarigua/</guid>
+      <description>In Sarigua we installed two AudioMoths. We called the sites:
+Parita_01_Sarigua_16 Parita_01_Sarigua_15 </description>
+    </item>
+    
+    <item>
+      <title>El Reten</title>
+      <link>https://example.com/posts/reten/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/reten/</guid>
+      <description>In El Reten we installed one AudioMot. We called the site:
+Parita_01_ElReten_07 </description>
+    </item>
+    
+    <item>
+      <title>Agallito</title>
+      <link>https://example.com/posts/agallito/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/lake-lauvitel/</guid>
-      <description>In Honda we installed two AudioMoths. We called the sites HondaSalada_01 and PenonHonda_02</description>
+      <guid>https://example.com/posts/agallito/</guid>
+      <description>In Agallito we installed one AudioMoth. We called the site:
+Parita_01_ElAgallito_05 </description>
+    </item>
+    
+    <item>
+      <title>Honda</title>
+      <link>https://example.com/posts/honda/</link>
+      <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/honda/</guid>
+      <description>In Honda we installed two AudioMoths. We called the sites:
+Parita_01_PenonHonda_02 Parita_01_HondaSalada_01 </description>
     </item>
     
     <item>
@@ -23,16 +93,8 @@
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/posts/bayano/</guid>
-      <description>[Audiomoth 1]</description>
-    </item>
-    
-    <item>
-      <title>About Hugo Split Gallery theme</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Wed, 14 Jul 2021 12:34:56 +0000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      <description>Cat ipsum dolor sit amet, growl at dogs in my sleep stare out cat door then go back inside. Naughty running cat stares at human while pushing stuff off a table. Ignore the human until she needs to get up, then climb on her lap and sprawl bird bird bird bird bird bird human why take bird out i could have eaten that damn that dog cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit.</description>
+      <description>In Bayano we installed two AudioMots. We called the sites:
+Parita_01_BayanoAvispa_03 Parita_01_BayanoLasTablas_04 </description>
     </item>
     
     <item>
@@ -47,21 +109,12 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Lac de la Muzelle et lac Lauvitel</title>
-      <link>https://example.com/posts/lakes-muzelle-lauvitel/</link>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/posts/lakes-muzelle-lauvitel/</guid>
-      <description>Randonnée avec nuit au refuge de la Muzelle.</description>
-    </item>
-    
-    <item>
-      <title>Getting started with Hugo Split Gallery theme</title>
+      <title>Field Report. Diego J. Lizcano. Independent Contractor for Audubon Americas</title>
       <link>https://example.com/field-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/field-report/</guid>
-      <description>Cat ipsum dolor sit amet, growl at dogs in my sleep stare out cat door then go back inside. Naughty running cat stares at human while pushing stuff off a table. Ignore the human until she needs to get up, then climb on her lap and sprawl bird bird bird bird bird bird human why take bird out i could have eaten that damn that dog cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit.</description>
+      <description>Report of field work completed and training activities for the field crew Backup of recordings obtained through acoustic monitoring and document explaining file organization </description>
     </item>
     
   </channel>
