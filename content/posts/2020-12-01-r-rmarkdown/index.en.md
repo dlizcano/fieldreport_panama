@@ -1,6 +1,8 @@
 ---
 title: "Species List"
 author: "Diego J. Lizcano"
+images:
+- images/species_list2.png
 date: 2023-02-15T21:13:14-05:00
 categories: ["R"]
 tags: ["Species", "e-Bird", "list"]
