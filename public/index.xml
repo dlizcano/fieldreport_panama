@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Panama Blue Natural Heritage</title>
-    <link>acousticpanama.netlify.app/</link>
+    <link>https://acousticpanama.netlify.app/</link>
     <description>Recent content on Panama Blue Natural Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 21:13:14 -0500</lastBuildDate><atom:link href="acousticpanama.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 21:13:14 -0500</lastBuildDate><atom:link href="https://acousticpanama.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diego J. Lizcano. Independent Contractor for Audubon Americas</title>
-      <link>acousticpanama.netlify.app/about/</link>
+      <link>https://acousticpanama.netlify.app/about/</link>
       <pubDate>Fri, 10 Mar 2023 12:34:56 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/about/</guid>
+      <guid>https://acousticpanama.netlify.app/about/</guid>
       <description>This report covers the deliverables: Report of field work completed and training activities for the field crew. Backup of recordings obtained through acoustic monitoring and document explaining file organization. This report also covers the activities: Coordinate the development of bird monitoring activities for the Panama Blue Natural Heritage project in panama. Design a cost-efficient sampling scheme for bird monitoring in the Panama Blue Natural Heritage Project. Provide in-person and virtual training to personnel conducting monitoring fieldwork for the project.</description>
     </item>
     
     <item>
       <title>Species List</title>
-      <link>acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
+      <link>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Wed, 15 Feb 2023 21:13:14 -0500</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
       <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay</description>
     </item>
     
     <item>
       <title>Los Palacios</title>
-      <link>acousticpanama.netlify.app/posts/palacios/</link>
+      <link>https://acousticpanama.netlify.app/posts/palacios/</link>
       <pubDate>Thu, 19 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/palacios/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/palacios/</guid>
       <description>In Los Palacios we installed three AudioMoths. We called the sites:
 Parita_01_LosPalacios_11 Parita_01_LosPalacios_10 Parita_01_LosPalacios_06 </description>
     </item>
     
     <item>
       <title>Los Azules</title>
-      <link>acousticpanama.netlify.app/posts/azules/</link>
+      <link>https://acousticpanama.netlify.app/posts/azules/</link>
       <pubDate>Wed, 18 Jan 2023 00:08:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/azules/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/azules/</guid>
       <description>In los Azules we installed two AudioMots. We called the sites:
 Parita_01_LosAzules_12 Parita_01_Nanzal_09 </description>
     </item>
     
     <item>
       <title>Rio Grande</title>
-      <link>acousticpanama.netlify.app/posts/rio/</link>
+      <link>https://acousticpanama.netlify.app/posts/rio/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/rio/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/rio/</guid>
       <description>In Rio Grande we installed three AudioMots. We called the sites:
 Parita_01_EsteroCamaron_13 Parita_01_LasPalmitas_14 Parita_01_Mamoni_08 </description>
     </item>
     
     <item>
       <title>Sarigua</title>
-      <link>acousticpanama.netlify.app/posts/sarigua/</link>
+      <link>https://acousticpanama.netlify.app/posts/sarigua/</link>
       <pubDate>Tue, 17 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/sarigua/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/sarigua/</guid>
       <description>In Sarigua we installed two AudioMoths. We called the sites:
 Parita_01_Sarigua_16 Parita_01_Sarigua_15 </description>
     </item>
     
     <item>
       <title>El Reten</title>
-      <link>acousticpanama.netlify.app/posts/reten/</link>
+      <link>https://acousticpanama.netlify.app/posts/reten/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/reten/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/reten/</guid>
       <description>In El Reten we installed one AudioMot. We called the site:
 Parita_01_ElReten_07 </description>
     </item>
     
     <item>
       <title>Agallito</title>
-      <link>acousticpanama.netlify.app/posts/agallito/</link>
+      <link>https://acousticpanama.netlify.app/posts/agallito/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/agallito/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/agallito/</guid>
       <description>In Agallito we installed one AudioMoth. We called the site:
 Parita_01_ElAgallito_05 </description>
     </item>
     
     <item>
       <title>Honda</title>
-      <link>acousticpanama.netlify.app/posts/honda/</link>
+      <link>https://acousticpanama.netlify.app/posts/honda/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/honda/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/honda/</guid>
       <description>In Honda we installed two AudioMoths. We called the sites:
 Parita_01_PenonHonda_02 Parita_01_HondaSalada_01 </description>
     </item>
     
     <item>
       <title>Bayano</title>
-      <link>acousticpanama.netlify.app/posts/bayano/</link>
+      <link>https://acousticpanama.netlify.app/posts/bayano/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/posts/bayano/</guid>
+      <guid>https://acousticpanama.netlify.app/posts/bayano/</guid>
       <description>In Bayano we installed two AudioMots. We called the sites:
 Parita_01_BayanoAvispa_03 Parita_01_BayanoLasTablas_04 </description>
     </item>
     
     <item>
       <title>Field Report. Diego J. Lizcano. Independent Contractor for Audubon Americas</title>
-      <link>acousticpanama.netlify.app/field-report/</link>
+      <link>https://acousticpanama.netlify.app/field-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>acousticpanama.netlify.app/field-report/</guid>
+      <guid>https://acousticpanama.netlify.app/field-report/</guid>
       <description>Report of field work completed and training activities for the field crew Backup of recordings obtained through acoustic monitoring and document explaining file organization </description>
     </item>
     

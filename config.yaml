@@ -1,6 +1,6 @@
 title: Panama Blue Natural Heritage
 copyright: '&copy;2021-2022 Diego J. Lizcano'
-baseURL: acousticpanama.netlify.app
+baseURL: https://acousticpanama.netlify.app/
 languageCode: en-us
 theme: hugo-split-gallery-main
 DefaultContentLanguage: en
