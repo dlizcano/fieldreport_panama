@@ -8,11 +8,11 @@ taxonomies:
   location: locations
   season: seasons
 params:
-  description: Panama Blue Natural Heritage. Acoustic Component. Field report
+  description: Panama Blue Natural Heritage. Acoustic Component. Field report I
   favicon: ''
   footnote: Diego J. Lizcano for Audubon Americas
   galleryLoop: yes
-  images: acoustic_monitoring.jpg
+  images: 7D2_1419.jpg
   includeOriginalImage: yes
   map2gpx: en
   paginate: 10
