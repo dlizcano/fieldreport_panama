@@ -3,7 +3,7 @@ title: "Species List"
 author: "Diego J. Lizcano"
 images:
 - images/species_list2.png
-date: 2023-02-15T21:13:14-05:00
+date: 2023-01-15T21:13:14-05:00
 categories: ["R"]
 tags: ["Species", "e-Bird", "list"]
 ---
@@ -178,5 +178,6 @@ ggplot(identify_sp_trait, aes(x=factor(Nocturnal), y=BodyMass.Value)) + geom_box
 
 ## Download species lists
 
+##### [Identifable Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/identifiable_species.csv)
 
 
