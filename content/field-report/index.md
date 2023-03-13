@@ -15,7 +15,7 @@ We visited Panama from the second week of January. During the visit a detailed t
 
 ## Backup of recordings obtained through acoustic monitoring and document explaining file organization
 
-All the recordings are already in [Arbimon](https://arbimon.rfcx.org/project/panama-blue-natural) and a copy is also being uploaded to the the Audubon´s Box. 
+All the recordings are already in [Arbimon](https://arbimon.rfcx.org/project/panama-blue-natural) and a copy is also being uploaded to the Audubon´s Box. 
 
 ### Naming convention for sites
 
@@ -36,5 +36,5 @@ To name the sites begin with the name of the bay, then the sample number, then t
 ### Naming convention for wav file names
 
 The audio files are in the .WAV format. The files follow the default AudioMoth naming system. The name starts with the date and is followed by the hour separated by and underline. For example the file 20230118_175500.WAV is a file recorded the year 2023, month 01, day 18 in the hour 17:55.
-Each file is 5 minutes.
+Each file is an audio of one minute and its size is 5.5 MB.
 
