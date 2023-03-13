@@ -68,15 +68,6 @@ Parita_01_ElReten_07 </description>
     </item>
     
     <item>
-      <title>Species List</title>
-      <link>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Sun, 15 Jan 2023 21:13:14 -0500</pubDate>
-      
-      <guid>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay</description>
-    </item>
-    
-    <item>
       <title>Agallito</title>
       <link>https://acousticpanama.netlify.app/posts/agallito/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
@@ -107,12 +98,21 @@ Parita_01_BayanoAvispa_03 Parita_01_BayanoLasTablas_04 </description>
     </item>
     
     <item>
+      <title>Species List</title>
+      <link>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Sat, 14 Jan 2023 21:13:14 -0500</pubDate>
+      
+      <guid>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay</description>
+    </item>
+    
+    <item>
       <title>Field Report. Diego J. Lizcano. Independent Contractor for Audubon Americas</title>
       <link>https://acousticpanama.netlify.app/field-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://acousticpanama.netlify.app/field-report/</guid>
-      <description>Report of field work completed and training activities for the field crew Backup of recordings obtained through acoustic monitoring and document explaining file organization </description>
+      <description>Report of field work completed and training activities for the field crew We visited Panama from the second week of January. During the visit a detailed training on AudioMoth configuration and programming was carried out to the Audubon Panama team. During the training the Audubon Panama team was able to successfully program and configure 16 AudioMoths to record one minute each five minutes using 48 kHz in sampling rate, and medium gain in the mic.</description>
     </item>
     
   </channel>

@@ -3,7 +3,7 @@ title: "Species List"
 author: "Diego J. Lizcano"
 images:
 - images/species_list2.png
-date: 2023-01-15T21:13:14-05:00
+date: 2023-01-14T21:13:14-05:00
 categories: ["R"]
 tags: ["Species", "e-Bird", "BirdNet"]
 ---
@@ -174,10 +174,10 @@ ggplot(identify_sp_trait, aes(x=factor(Nocturnal), y=BodyMass.Value)) + geom_box
 
 ##### [Identifable Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/identifiable_species.csv)
 
-#### [Larger (1 Kilo) Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/larger_1kilo_species.csv)
+##### [Larger (1 Kilo) Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/larger_1kilo_species.csv)
 
-#### [Migratory Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/migratory_species.csv)
+##### [Migratory Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/migratory_species.csv)
 
-#### [Nocturnal Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/nocturnal_species.csv)
+##### [Nocturnal Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/nocturnal_species.csv)
 
-#### [Pelagic Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/pelagic_species.csv)
+##### [Pelagic Species](https://github.com/dlizcano/fieldreport_panama/blob/main/content/posts/2020-12-01-r-rmarkdown/data/pelagic_species.csv)
