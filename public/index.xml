@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 21:13:14 -0500</lastBuildDate><atom:link href="https://acousticpanama.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://acousticpanama.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diego J. Lizcano. Independent Contractor for Audubon Americas</title>
       <link>https://acousticpanama.netlify.app/about/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://acousticpanama.netlify.app/about/</guid>
       <description>This report covers the deliverables: Report of field work completed and training activities for the field crew. Backup of recordings obtained through acoustic monitoring and document explaining file organization. This report also covers the activities: Coordinate the development of bird monitoring activities for the Panama Blue Natural Heritage project in panama. Design a cost-efficient sampling scheme for bird monitoring in the Panama Blue Natural Heritage Project. Provide in-person and virtual training to personnel conducting monitoring fieldwork for the project.</description>
-    </item>
-    
-    <item>
-      <title>Species List</title>
-      <link>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Wed, 15 Feb 2023 21:13:14 -0500</pubDate>
-      
-      <guid>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay</description>
     </item>
     
     <item>
@@ -74,6 +65,15 @@ Parita_01_Sarigua_16 Parita_01_Sarigua_15 </description>
       <guid>https://acousticpanama.netlify.app/posts/reten/</guid>
       <description>In El Reten we installed one AudioMot. We called the site:
 Parita_01_ElReten_07 </description>
+    </item>
+    
+    <item>
+      <title>Species List</title>
+      <link>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Sun, 15 Jan 2023 21:13:14 -0500</pubDate>
+      
+      <guid>https://acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay</description>
     </item>
     
     <item>
