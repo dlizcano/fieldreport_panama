@@ -7,7 +7,7 @@
   
   <title>Species List | Panama Blue Natural Heritage</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1">
-  <meta name="description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay Playa de Juan Hombrón y El_Salado We start looking for the hotspot list around Parita Bay">
+  <meta name="description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay">
   <meta name="generator" content="Hugo 0.100.2" />
   <meta name="robots" content="index, follow">
   <meta name="referrer" content="always" />
@@ -75,18 +75,19 @@
   
 
   <meta property="og:title" content="Species List" />
-<meta property="og:description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table # Install traitdata from Github # if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;) # Install traitdata package from Github # remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay Playa de Juan Hombrón y El_Salado We start looking for the hotspot list around Parita Bay" />
+<meta property="og:description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;) # Install traitdata package from Github # remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://example.com/posts/2020-12-01-r-rmarkdown/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://example.com/posts/2020-12-01-r-rmarkdown/" /><meta property="og:image" content="https://example.com/media/images/species_list2.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-02-15T21:13:14-05:00" />
 <meta property="article:modified_time" content="2023-02-15T21:13:14-05:00" />
 
 <meta itemprop="name" content="Species List">
-<meta itemprop="description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table # Install traitdata from Github # if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;) # Install traitdata package from Github # remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay Playa de Juan Hombrón y El_Salado We start looking for the hotspot list around Parita Bay"><meta itemprop="datePublished" content="2023-02-15T21:13:14-05:00" />
+<meta itemprop="description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;) # Install traitdata package from Github # remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay"><meta itemprop="datePublished" content="2023-02-15T21:13:14-05:00" />
 <meta itemprop="dateModified" content="2023-02-15T21:13:14-05:00" />
-<meta itemprop="wordCount" content="482">
-<meta itemprop="keywords" content="Species,e-Bird,list," /><meta name="twitter:title" content="Species List"/>
-<meta name="twitter:description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table # Install traitdata from Github # if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;) # Install traitdata package from Github # remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay Playa de Juan Hombrón y El_Salado We start looking for the hotspot list around Parita Bay"/>
+<meta itemprop="wordCount" content="491"><meta itemprop="image" content="https://example.com/media/images/species_list2.png"/>
+<meta itemprop="keywords" content="Species,e-Bird,list," /><meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://example.com/media/images/species_list2.png"/><meta name="twitter:title" content="Species List"/>
+<meta name="twitter:description" content="Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;) # Install traitdata package from Github # remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay"/>
 
   
 </head>
@@ -138,6 +139,7 @@
 </span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(mapview) <span style="color:#75715e"># maps easy</span>
 </span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(readr) <span style="color:#75715e"># read table</span>
 </span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(flextable) <span style="color:#75715e"># make nice table</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(ggplot2) 
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># Install traitdata from Github</span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># if(!&#34;remotes&#34; %in% installed.packages()[,&#34;Package&#34;]) install.packages(&#34;remotes&#34;)</span>
@@ -145,7 +147,6 @@
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># remotes::install_github(&#34;RS-eco/traitdata&#34;, build_vignettes = T, force=T)</span>
 </span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(traitdata) <span style="color:#75715e"># species traits</span>
 </span></span></code></pre></div><h2 id="get-species-from-hotspots-around-parita-bay">Get species from Hotspots around Parita Bay</h2>
-<h3 id="playa-de-juan-hombrón-y-el_salado">Playa de Juan Hombrón y El_Salado</h3>
 <p>We start looking for the hotspot list around Parita Bay</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#75715e"># get hotspots</span>
 </span></span><span style="display:flex;"><span>
@@ -158,7 +159,7 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># make image table</span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># save_as_image(ft, path = &#34;C:/github/fieldreport_panama/content/posts/2020-12-01-r-rmarkdown/images/hotspots.png&#34;)</span>
-</span></span></code></pre></div><h2 id="plot-hotspots">Plot HotSpots</h2>
+</span></span></code></pre></div><h3 id="plot-hotspots">Plot HotSpots</h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>all_sites_sf <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">st_as_sf</span>(hotspots, coords<span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;lng&#34;</span>, <span style="color:#e6db74">&#34;lat&#34;</span>), crs <span style="color:#f92672">=</span> <span style="color:#a6e22e">st_crs</span>(<span style="color:#ae81ff">4326</span>))
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>m <span style="color:#f92672">&lt;-</span>  <span style="color:#a6e22e">mapview</span>(all_sites_sf, zcol <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;locName&#34;</span>), map.types <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>( <span style="color:#e6db74">&#34;OpenStreetMap.DE&#34;</span>))
@@ -210,38 +211,51 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># make image table</span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># save_as_image(ft2, path = &#34;C:/github/fieldreport_panama/content/posts/2020-12-01-r-rmarkdown/images/species.png&#34;)</span>
-</span></span></code></pre></div><p>Now we get trait list for birds from the dataset bird_behav</p>
+</span></span></code></pre></div><h2 id="use-traits-to-prioritize-species">Use traits to prioritize species</h2>
+<p>Get trait list for birds from the <em>elton_birds</em> dataset</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># open bird trait</span>
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">data</span>(bird_behav) <span style="color:#75715e"># Usar Elton Dieta, estrato forrajeo, habitat primario </span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">data</span>(elton_birds) <span style="color:#75715e"># Usar Elton Dieta, estrato forrajeo, habitat primario </span>
+</span></span><span style="display:flex;"><span>elton <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">force</span>(elton_birds)
 </span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>migra <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">force</span>(migbehav_birds)
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># add traits... Note remove some species by non congruent taxonomy</span>
-</span></span><span style="display:flex;"><span>identify_sp_trait <span style="color:#f92672">&lt;-</span> bird_behav <span style="color:#f92672">%&gt;%</span> <span style="color:#a6e22e">inner_join</span>(identify_sp)
+</span></span><span style="display:flex;"><span>identify_sp_trait <span style="color:#f92672">&lt;-</span> elton <span style="color:#f92672">%&gt;%</span> <span style="color:#a6e22e">inner_join</span>(identify_sp)
 </span></span><span style="display:flex;"><span><span style="color:#75715e">## Joining with `by = join_by(scientificNameStd)`</span>
 </span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">########  larger than kilo</span>
+</span></span><span style="display:flex;"><span>larger_sp <span style="color:#f92672">&lt;-</span> identify_sp_trait<span style="color:#a6e22e">[which</span>(identify_sp_trait<span style="color:#f92672">$</span>BodyMass.Value <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">1000</span>), ] <span style="color:#75715e"># larger than kilo</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># # Recent observations </span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># JuanHumbron &lt;- ebirdregion(loc = &#39;L3478798&#39;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Laguna_JuanHumbron &lt;- ebirdregion(loc =&#34;L2878306&#34;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Agallito &lt;- ebirdregion(loc = &#39;L685264&#39;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># El_Salado &lt;- ebirdregion(loc = &#34;L4808970&#34;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Santa_Ana &lt;- ebirdregion(loc = &#34;L15935148&#34;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Cenegon_del_Mangle &lt;- ebirdregion(loc = &#34;L4903804&#34;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Salinas_de_Aguadulce &lt;- ebirdregion(loc = &#34;L1345898&#34;)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># </span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># # historical observations</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># # View(ebirdchecklistfeed(loc = &#34;L2878306&#34;, date = &#34;2020-01-10&#34;, max = 10))</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># </span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># # for some reason just two retrived data...!</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># </span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># # join</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># all_sites &lt;- JuanHumbron %&gt;% full_join(El_Salado, by)</span>
-</span></span></code></pre></div>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">########  nocturnal</span>
+</span></span><span style="display:flex;"><span>nocturnal_sp <span style="color:#f92672">&lt;-</span> identify_sp_trait<span style="color:#a6e22e">[which</span>(identify_sp_trait<span style="color:#f92672">$</span>Nocturnal <span style="color:#f92672">==</span> <span style="color:#ae81ff">1</span>), ] <span style="color:#75715e"># larger than kilo</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">########  Select pelagic</span>
+</span></span><span style="display:flex;"><span>pelagic_sp <span style="color:#f92672">&lt;-</span> identify_sp_trait<span style="color:#a6e22e">[which</span>(identify_sp_trait<span style="color:#f92672">$</span>PelagicSpecialist<span style="color:#f92672">==</span><span style="color:#ae81ff">1</span>),]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">######## identify migratory sp</span>
+</span></span><span style="display:flex;"><span>identify_migra_sp <span style="color:#f92672">&lt;-</span> migra <span style="color:#f92672">%&gt;%</span> <span style="color:#a6e22e">inner_join</span>(identify_sp)
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## Joining with `by = join_by(scientificNameStd)`</span>
+</span></span><span style="display:flex;"><span>migra_sp <span style="color:#f92672">&lt;-</span> identify_migra_sp<span style="color:#a6e22e">[which</span>(identify_migra_sp<span style="color:#f92672">$</span>Migratory_status<span style="color:#f92672">==</span><span style="color:#e6db74">&#34;directional migratory&#34;</span>), ]
+</span></span></code></pre></div><h3 id="some-trait-plots">Some trait plots</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">ggplot</span>(identify_sp_trait, <span style="color:#a6e22e">aes</span>(x <span style="color:#f92672">=</span> BodyMass.Value)) <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">geom_histogram</span>() <span style="color:#f92672">+</span> <span style="color:#a6e22e">ggtitle</span>(<span style="color:#e6db74">&#34;Plot of BodyMass (g)&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.</span>
+</span></span></code></pre></div><!-- raw HTML omitted -->
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">ggplot</span>(identify_sp_trait, <span style="color:#a6e22e">aes</span>(x<span style="color:#f92672">=</span><span style="color:#a6e22e">factor</span>(Nocturnal), y<span style="color:#f92672">=</span>BodyMass.Value)) <span style="color:#f92672">+</span> <span style="color:#a6e22e">geom_boxplot</span>() <span style="color:#f92672">+</span> <span style="color:#a6e22e">ggtitle</span>(<span style="color:#e6db74">&#34;Plot of BodyMass (g)&#34;</span>)
+</span></span></code></pre></div><!-- raw HTML omitted -->
 
 
 
 
+
+
+  
+
+  
 
   
 
@@ -261,6 +275,10 @@
   <ul class="list-unstyled" id="list-metadata">
     <li><i class="fa fa-file fa-fw"></i>Article published on 2023-02-15</li>
     
+    
+      
+    
+      
     
       
     
@@ -323,7 +341,7 @@
 
 
 
-<div class="col-lg-6 p-0" id="gallery-panel" style="background-image: url('false');">
+<div class="col-lg-6 p-0" id="gallery-panel" style="background-image: url('https://example.com/media/images/species_list2_hu8b94206905dfc93c651f14fcafe08644_17515_filter_3131357554705568685.png');">
   <div class="container-fluid h-100 p-0">
     <div class="row h-100 p-0">
       <div class="col my-auto p-0">
@@ -333,8 +351,8 @@
             
             
               <li><a href="https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots.png"
-                  data-srcset="https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots.png 1524w, https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots_hu2cdd5182d4804fd4c45e9f20c5ebcfe3_96841_2000x0_resize_box_3.png 2000w"
-                  data-fancybox="gallery"><img src="https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots_hu2cdd5182d4804fd4c45e9f20c5ebcfe3_96841_0x150_resize_box_3.png" /></a></li>
+                  data-srcset="https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots.png 1517w, https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots_hu1d7008e8832157b5189f3701a403bdeb_137191_2000x0_resize_box_3.png 2000w"
+                  data-fancybox="gallery"><img src="https://example.com/posts/2020-12-01-r-rmarkdown/images/hotspots_hu1d7008e8832157b5189f3701a403bdeb_137191_0x150_resize_box_3.png" /></a></li>
             
           
             
@@ -349,8 +367,24 @@
             
             
               <li><a href="https://example.com/posts/2020-12-01-r-rmarkdown/images/species.png"
-                  data-srcset="https://example.com/posts/2020-12-01-r-rmarkdown/images/species.png 984w, https://example.com/posts/2020-12-01-r-rmarkdown/images/species_hub02bea23544a8880709eb629016e1ae3_1678304_2000x0_resize_box_3.png 2000w"
-                  data-fancybox="gallery"><img src="https://example.com/posts/2020-12-01-r-rmarkdown/images/species_hub02bea23544a8880709eb629016e1ae3_1678304_0x150_resize_box_3.png" /></a></li>
+                  data-srcset="https://example.com/posts/2020-12-01-r-rmarkdown/images/species.png 983w, https://example.com/posts/2020-12-01-r-rmarkdown/images/species_hu5c72e1b479c962c41026d1b8f52496e9_384375_2000x0_resize_box_3.png 2000w"
+                  data-fancybox="gallery"><img src="https://example.com/posts/2020-12-01-r-rmarkdown/images/species_hu5c72e1b479c962c41026d1b8f52496e9_384375_0x150_resize_box_3.png" /></a></li>
+            
+          
+            
+            
+            
+              <li><a href="https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-1.png"
+                  data-srcset="https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-1.png 1344w, https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-1_huee1a29b4e9a727fb3bc0129ecf6fecfc_13977_2000x0_resize_box_3.png 2000w"
+                  data-fancybox="gallery"><img src="https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-1_huee1a29b4e9a727fb3bc0129ecf6fecfc_13977_0x150_resize_box_3.png" /></a></li>
+            
+          
+            
+            
+            
+              <li><a href="https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-2.png"
+                  data-srcset="https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-2.png 1344w, https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-2_hu6470b25504b3b844e5032e630f41837a_12854_2000x0_resize_box_3.png 2000w"
+                  data-fancybox="gallery"><img src="https://example.com/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/unnamed-chunk-6-2_hu6470b25504b3b844e5032e630f41837a_12854_0x150_resize_box_3.png" /></a></li>
             
           
         <li></li>
