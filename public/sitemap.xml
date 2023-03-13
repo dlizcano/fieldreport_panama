@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>acousticpanama.netlify.app/about/</loc>
     <lastmod>2023-03-10T12:34:56+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>acousticpanama.netlify.app/</loc>
     <lastmod>2023-02-15T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>acousticpanama.netlify.app/posts/</loc>
     <lastmod>2023-02-15T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-12-01-r-rmarkdown/</loc>
+    <loc>acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2023-02-15T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/seasons/january/</loc>
+    <loc>acousticpanama.netlify.app/seasons/january/</loc>
     <lastmod>2023-01-19T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/locations/</loc>
+    <loc>acousticpanama.netlify.app/locations/</loc>
     <lastmod>2023-01-19T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/palacios/</loc>
+    <loc>acousticpanama.netlify.app/posts/palacios/</loc>
     <lastmod>2023-01-19T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/locations/parita-bay/</loc>
+    <loc>acousticpanama.netlify.app/locations/parita-bay/</loc>
     <lastmod>2023-01-19T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/seasons/</loc>
+    <loc>acousticpanama.netlify.app/seasons/</loc>
     <lastmod>2023-01-19T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/azules/</loc>
+    <loc>acousticpanama.netlify.app/posts/azules/</loc>
     <lastmod>2023-01-18T00:08:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/rio/</loc>
+    <loc>acousticpanama.netlify.app/posts/rio/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/sarigua/</loc>
+    <loc>acousticpanama.netlify.app/posts/sarigua/</loc>
     <lastmod>2023-01-17T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/reten/</loc>
+    <loc>acousticpanama.netlify.app/posts/reten/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/agallito/</loc>
+    <loc>acousticpanama.netlify.app/posts/agallito/</loc>
     <lastmod>2023-01-16T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/honda/</loc>
+    <loc>acousticpanama.netlify.app/posts/honda/</loc>
     <lastmod>2023-01-16T00:11:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/bayano/</loc>
+    <loc>acousticpanama.netlify.app/posts/bayano/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/field-report/</loc>
+    <loc>acousticpanama.netlify.app/field-report/</loc>
   </url>
 </urlset>

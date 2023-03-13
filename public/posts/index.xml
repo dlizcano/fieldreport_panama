@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My hikes on Panama Blue Natural Heritage</title>
-    <link>https://example.com/posts/</link>
+    <link>acousticpanama.netlify.app/posts/</link>
     <description>Recent content in My hikes on Panama Blue Natural Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 21:13:14 -0500</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 21:13:14 -0500</lastBuildDate><atom:link href="acousticpanama.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Species List</title>
-      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <link>acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Wed, 15 Feb 2023 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>acousticpanama.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
       <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table library(ggplot2) # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay We start looking for the hotspot list around Parita Bay</description>
     </item>
     
     <item>
       <title>Los Palacios</title>
-      <link>https://example.com/posts/palacios/</link>
+      <link>acousticpanama.netlify.app/posts/palacios/</link>
       <pubDate>Thu, 19 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/palacios/</guid>
+      <guid>acousticpanama.netlify.app/posts/palacios/</guid>
       <description>In Los Palacios we installed three AudioMoths. We called the sites:
 Parita_01_LosPalacios_11 Parita_01_LosPalacios_10 Parita_01_LosPalacios_06 </description>
     </item>
     
     <item>
       <title>Los Azules</title>
-      <link>https://example.com/posts/azules/</link>
+      <link>acousticpanama.netlify.app/posts/azules/</link>
       <pubDate>Wed, 18 Jan 2023 00:08:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/azules/</guid>
+      <guid>acousticpanama.netlify.app/posts/azules/</guid>
       <description>In los Azules we installed two AudioMots. We called the sites:
 Parita_01_LosAzules_12 Parita_01_Nanzal_09 </description>
     </item>
     
     <item>
       <title>Rio Grande</title>
-      <link>https://example.com/posts/rio/</link>
+      <link>acousticpanama.netlify.app/posts/rio/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/rio/</guid>
+      <guid>acousticpanama.netlify.app/posts/rio/</guid>
       <description>In Rio Grande we installed three AudioMots. We called the sites:
 Parita_01_EsteroCamaron_13 Parita_01_LasPalmitas_14 Parita_01_Mamoni_08 </description>
     </item>
     
     <item>
       <title>Sarigua</title>
-      <link>https://example.com/posts/sarigua/</link>
+      <link>acousticpanama.netlify.app/posts/sarigua/</link>
       <pubDate>Tue, 17 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/sarigua/</guid>
+      <guid>acousticpanama.netlify.app/posts/sarigua/</guid>
       <description>In Sarigua we installed two AudioMoths. We called the sites:
 Parita_01_Sarigua_16 Parita_01_Sarigua_15 </description>
     </item>
     
     <item>
       <title>El Reten</title>
-      <link>https://example.com/posts/reten/</link>
+      <link>acousticpanama.netlify.app/posts/reten/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/reten/</guid>
+      <guid>acousticpanama.netlify.app/posts/reten/</guid>
       <description>In El Reten we installed one AudioMot. We called the site:
 Parita_01_ElReten_07 </description>
     </item>
     
     <item>
       <title>Agallito</title>
-      <link>https://example.com/posts/agallito/</link>
+      <link>acousticpanama.netlify.app/posts/agallito/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/agallito/</guid>
+      <guid>acousticpanama.netlify.app/posts/agallito/</guid>
       <description>In Agallito we installed one AudioMoth. We called the site:
 Parita_01_ElAgallito_05 </description>
     </item>
     
     <item>
       <title>Honda</title>
-      <link>https://example.com/posts/honda/</link>
+      <link>acousticpanama.netlify.app/posts/honda/</link>
       <pubDate>Mon, 16 Jan 2023 00:11:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/honda/</guid>
+      <guid>acousticpanama.netlify.app/posts/honda/</guid>
       <description>In Honda we installed two AudioMoths. We called the sites:
 Parita_01_PenonHonda_02 Parita_01_HondaSalada_01 </description>
     </item>
     
     <item>
       <title>Bayano</title>
-      <link>https://example.com/posts/bayano/</link>
+      <link>acousticpanama.netlify.app/posts/bayano/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/bayano/</guid>
+      <guid>acousticpanama.netlify.app/posts/bayano/</guid>
       <description>In Bayano we installed two AudioMots. We called the sites:
 Parita_01_BayanoAvispa_03 Parita_01_BayanoLasTablas_04 </description>
     </item>
