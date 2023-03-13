@@ -82,11 +82,10 @@
   <meta property="og:title" content="" />
 <meta property="og:description" content="Panama Blue Natural Heritage. Acoustic Component. Field report" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://example.com/" /><meta property="og:image" content="https://example.com/media/images/7D2_1716.jpg"/>
+<meta property="og:url" content="https://example.com/" />
 
 <meta itemprop="name" content="">
-<meta itemprop="description" content="Panama Blue Natural Heritage. Acoustic Component. Field report"><meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://example.com/media/images/7D2_1716.jpg"/><meta name="twitter:title" content=""/>
+<meta itemprop="description" content="Panama Blue Natural Heritage. Acoustic Component. Field report"><meta name="twitter:title" content=""/>
 <meta name="twitter:description" content="Panama Blue Natural Heritage. Acoustic Component. Field report"/>
 
   
@@ -134,6 +133,17 @@
 
   
   
+  
+  
+    
+  
+    
+  
+    
+  
+
+  
+  
     
   
   
@@ -585,13 +595,6 @@
       
         
       
-    
-  
-
-  
-  
-  
-  
     
   
 
@@ -601,11 +604,14 @@
 
   
   
+
+  
+  
     
     
       
     
-    <script src="https://example.com/posts/palacios/carretera-1912023-92853-a-m%20%281%29.gpx.js"></script>
+    <script src="https://example.com/posts/palacios/carretera-1912023-92853.gpx.js"></script>
   
 
   
@@ -713,9 +719,6 @@
     <script src="https://example.com/posts/bayano/pista-1712023.gpx.js"></script>
   
 
-  
-  
-
 <script>
 $(document).ready(function() {
 initMap();
@@ -724,6 +727,40 @@ initMap();
   
   
   function load_0 () {
+    var tracks = [];
+    var markers = [];
+    var latlngs = [];
+
+    
+
+    
+      
+    
+      
+    
+      
+    
+
+    if (latlngs.length > 0) {
+      var pagebounds = L.latLngBounds(latlngs);
+      addBounds(pagebounds);
+      if (tracks.length === 0) {
+        markers.push([
+          pagebounds.getCenter(),
+           0 ,
+          '<strong><a href="https:\/\/example.com\/posts\/2020-12-01-r-rmarkdown\/">Species List</a></strong>',
+        ]);
+      }
+    }
+
+    add(tracks, markers,  0 );
+  }
+
+  load_0();
+
+  
+  
+  function load_1 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -821,20 +858,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           0 ,
+           1 ,
           '<strong><a href="https:\/\/example.com\/posts\/palacios\/">Los Palacios</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  0 );
+    add(tracks, markers,  1 );
   }
 
-  load_0();
+  load_1();
 
   
   
-  function load_1 () {
+  function load_2 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -907,20 +944,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           1 ,
+           2 ,
           '<strong><a href="https:\/\/example.com\/posts\/azules\/">Los Azules</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  1 );
+    add(tracks, markers,  2 );
   }
 
-  load_1();
+  load_2();
 
   
   
-  function load_2 () {
+  function load_3 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -1032,20 +1069,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           2 ,
+           3 ,
           '<strong><a href="https:\/\/example.com\/posts\/rio\/">Rio Grande</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  2 );
+    add(tracks, markers,  3 );
   }
 
-  load_2();
+  load_3();
 
   
   
-  function load_3 () {
+  function load_4 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -1113,20 +1150,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           3 ,
+           4 ,
           '<strong><a href="https:\/\/example.com\/posts\/sarigua\/">Sarigua</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  3 );
+    add(tracks, markers,  4 );
   }
 
-  load_3();
+  load_4();
 
   
   
-  function load_4 () {
+  function load_5 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -1174,20 +1211,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           4 ,
+           5 ,
           '<strong><a href="https:\/\/example.com\/posts\/reten\/">El Reten</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  4 );
+    add(tracks, markers,  5 );
   }
 
-  load_4();
+  load_5();
 
   
   
-  function load_5 () {
+  function load_6 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -1225,20 +1262,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           5 ,
+           6 ,
           '<strong><a href="https:\/\/example.com\/posts\/agallito\/">Agallito</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  5 );
+    add(tracks, markers,  6 );
   }
 
-  load_5();
+  load_6();
 
   
   
-  function load_6 () {
+  function load_7 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -1312,20 +1349,20 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           6 ,
+           7 ,
           '<strong><a href="https:\/\/example.com\/posts\/honda\/">Honda</a></strong>',
         ]);
       }
     }
 
-    add(tracks, markers,  6 );
+    add(tracks, markers,  7 );
   }
 
-  load_6();
+  load_7();
 
   
   
-  function load_7 () {
+  function load_8 () {
     var tracks = [];
     var markers = [];
     var latlngs = [];
@@ -1409,38 +1446,8 @@ initMap();
       if (tracks.length === 0) {
         markers.push([
           pagebounds.getCenter(),
-           7 ,
-          '<strong><a href="https:\/\/example.com\/posts\/bayano\/">Bayano</a></strong>',
-        ]);
-      }
-    }
-
-    add(tracks, markers,  7 );
-  }
-
-  load_7();
-
-  
-  
-  function load_8 () {
-    var tracks = [];
-    var markers = [];
-    var latlngs = [];
-
-    
-
-    
-      
-    
-
-    if (latlngs.length > 0) {
-      var pagebounds = L.latLngBounds(latlngs);
-      addBounds(pagebounds);
-      if (tracks.length === 0) {
-        markers.push([
-          pagebounds.getCenter(),
            8 ,
-          '<strong><a href="https:\/\/example.com\/posts\/2020-12-01-r-rmarkdown\/">Hello R Markdown</a></strong>',
+          '<strong><a href="https:\/\/example.com\/posts\/bayano\/">Bayano</a></strong>',
         ]);
       }
     }
@@ -1472,6 +1479,19 @@ finalizeMap();
 
 
 <ul>
+    
+        
+            <li>
+                <a href="https://example.com/posts/2020-12-01-r-rmarkdown/">
+                2023-02-15 | 
+                
+                    Species List
+                
+                </a>
+                
+            
+            </li>
+        
     
         
             <li>
@@ -1577,19 +1597,6 @@ finalizeMap();
             </li>
         
     
-        
-            <li>
-                <a href="https://example.com/posts/2020-12-01-r-rmarkdown/">
-                2020-12-01 | 
-                
-                    Hello R Markdown
-                
-                </a>
-                
-            
-            </li>
-        
-    
 </ul>
 
 
@@ -1669,7 +1676,7 @@ finalizeMap();
 
     
     
-<div class="col-lg-6 p-0" id="gallery-panel" style="background-image: url('https://example.com/media/images/7D2_1716_hu8ad0120bb4fce29f4ccd6f25ab97f8b5_1639253_filter_3131357554705568685.jpg');">
+<div class="col-lg-6 p-0" id="gallery-panel">
     
 
 
@@ -1677,6 +1684,21 @@ finalizeMap();
         <div class="row h-100 p-0">
             <div class="col my-auto p-0">
                 <ul class="split-grid list-unstyled">
+                    
+                        
+                        
+                            
+                            
+                            
+                            <li>
+                                <a href="https://example.com/posts/2020-12-01-r-rmarkdown/"  title="Species List">
+                                    
+                                        
+                                        Species List
+                                    
+                                </a>
+                            </li>
+                        
                     
                         
                         
@@ -1793,21 +1815,6 @@ finalizeMap();
                                     
                                         <img src="https://example.com/media/images/acoustic_monitoring_hu9783349060f8cad7b8eeccb2ef31fcb7_68932_0x150_resize_q75_box.jpg" alt="Bayano" />
                                         <figcaption><h3>Bayano</h3></figcaption>
-                                    
-                                </a>
-                            </li>
-                        
-                    
-                        
-                        
-                            
-                            
-                            
-                            <li>
-                                <a href="https://example.com/posts/2020-12-01-r-rmarkdown/"  title="Hello R Markdown">
-                                    
-                                        
-                                        Hello R Markdown
                                     
                                 </a>
                             </li>

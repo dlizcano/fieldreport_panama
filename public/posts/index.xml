@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2021-2022 Diego J. Lizcano</copyright>
-    <lastBuildDate>Thu, 19 Jan 2023 00:11:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 21:13:14 -0500</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Species List</title>
+      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Wed, 15 Feb 2023 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>Load Packages library(rebird) # ebird api library(tidyverse) # fix data library(sf) # vector map library(mapview) # maps easy library(readr) # read table library(flextable) # make nice table # Install traitdata from Github # if(!&amp;#34;remotes&amp;#34; %in% installed.packages()[,&amp;#34;Package&amp;#34;]) install.packages(&amp;#34;remotes&amp;#34;) # Install traitdata package from Github # remotes::install_github(&amp;#34;RS-eco/traitdata&amp;#34;, build_vignettes = T, force=T) library(traitdata) # species traits Get species from Hotspots around Parita Bay Playa de Juan Hombrón y El_Salado We start looking for the hotspot list around Parita Bay</description>
+    </item>
+    
     <item>
       <title>Los Palacios</title>
       <link>https://example.com/posts/palacios/</link>
@@ -86,17 +95,6 @@ Parita_01_PenonHonda_02 Parita_01_HondaSalada_01 </description>
       <guid>https://example.com/posts/bayano/</guid>
       <description>In Bayano we installed two AudioMots. We called the sites:
 Parita_01_BayanoAvispa_03 Parita_01_BayanoLasTablas_04 </description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>
